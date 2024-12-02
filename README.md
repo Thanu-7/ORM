@@ -45,6 +45,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 # OUTPUT
 ![alt text](ormscreenshot.png)
 
+![orm2](https://github.com/user-attachments/assets/99cb9cf6-76af-484d-8790-f9845c4f9ed2)
 
 
 # RESULT
